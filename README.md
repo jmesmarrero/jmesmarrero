@@ -1,5 +1,5 @@
 
-![Portada](./portadagit.png)
+![Portada](./portadagit2.png)
 
 # 👨‍💻 Jorge Mesa Marrero
 
