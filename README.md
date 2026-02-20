@@ -26,21 +26,11 @@ Currently, I am focusing on key areas of software development:
 
 ---
 
-## 📚 Subjects
+## 🧰 Technologies & Tools
 
-- **Markup Languages**  
-  Learning **HTML** and **CSS** to build structured and styled web pages.  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-- **Programming**  
-  Studying **Java**, applying concepts of **OOP, inheritance, and polymorphism**.  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-- **Databases**  
-  Giving my best in **SQL**, working with **PostgreSQL** as the DBMS.  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+</p>
 
 ---
 
