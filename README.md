@@ -28,9 +28,24 @@ Currently, I am focusing on key areas of software development:
 
 ## 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
-</p>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,java" />
+
+### Build & Dependency Management
+<img src="https://skillicons.dev/icons?i=maven" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,sql" />
+
+### Version Control & Collaboration
+<img src="https://skillicons.dev/icons?i=git,github" />
+
 
 ---
 
